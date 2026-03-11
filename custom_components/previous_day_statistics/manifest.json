@@ -1,0 +1,11 @@
+{
+  "domain": "previous_day_statistics",
+  "name": "Previous Day Statistics",
+  "version": "1.0.0",
+  "documentation": "https://github.com/enzofrnt/ha-previous-day-statistics",
+  "dependencies": ["recorder"],
+  "codeowners": ["@enzofrnt"],
+  "iot_class": "calculated",
+  "config_flow": true,
+  "integration_type": "helper"
+}

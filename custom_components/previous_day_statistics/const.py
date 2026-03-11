@@ -1,0 +1,1 @@
+DOMAIN = "previous_day_statistics"

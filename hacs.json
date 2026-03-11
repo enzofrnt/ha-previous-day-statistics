@@ -1,0 +1,5 @@
+{
+    "name": "Previous Day Statistics",
+    "domains": ["sensor"],
+    "content_in_root": false
+  }

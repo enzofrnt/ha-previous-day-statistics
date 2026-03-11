@@ -1,11 +1,12 @@
 {
-  "domain": "previous_day_statistics",
-  "name": "Previous Day Statistics",
-  "version": "1.0.0",
-  "documentation": "https://github.com/enzofrnt/ha-previous-day-statistics",
-  "dependencies": ["recorder"],
-  "codeowners": ["@enzofrnt"],
-  "iot_class": "calculated",
+  "domain": "statistics_calendar",
+  "name": "Statistics Calendar",
+  "codeowners": ["@enzofournet"],
   "config_flow": true,
-  "integration_type": "helper"
+  "documentation": "https://github.com/enzofournet/statistics-calendar",
+  "integration_type": "helper",
+  "iot_class": "calculated",
+  "loggers": ["custom_components.statistics_calendar"],
+  "requirements": [],
+  "version": "0.1.0"
 }
